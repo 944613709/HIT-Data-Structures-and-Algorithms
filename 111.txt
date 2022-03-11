@@ -1,0 +1,18 @@
+ Qsort Merge mid
+DiGui LNR  (LNR)NR
+BFS DFS cout1  while  之前
+BFS DFS visited
+BFS DFS cout2  if(!visited)cout2 visited push
+BFS CengXu queue
+kruskal type strut 是road,begin,end,weight
+huffmanT ,int parent,int lchild,int rchild,int weight
+Dijkstral Prim 都用的Graph C,C[0][0]=INF
+
+1.T==NULL
+3.Found
+2.Not Found
+
+二叉树遍历on，在AVL树查找是logn
+
+堆排序pushdown一次log2n，推排序全部是nlog2n
+锦标赛一次rebulid也是log2n
