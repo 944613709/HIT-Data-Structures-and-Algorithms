@@ -88,4 +88,4 @@ add_executable(
         队列解决约瑟夫.cpp
         雷子.cpp
         顺序栈.cpp
-        顺序队列.cpp)
+        顺序队列.cpp Test_5.cpp Test_5.h)

@@ -1,5 +1,0 @@
-输入：ABDH##I##E##CF#J##G##
-输出：FALSE
-
-输入：ABD##E##CF##G##
-输出：TRUE
