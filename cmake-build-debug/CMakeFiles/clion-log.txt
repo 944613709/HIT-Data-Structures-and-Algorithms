@@ -1,0 +1,18 @@
+"D:\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" D:\备份\数据结构
+CMake Error at CMakeLists.txt:2 (project):
+  project PROJECT called with incorrect number of arguments
+
+
+CMake Warning (dev) at CMakeLists.txt:6 (add_executable):
+  Policy CMP0037 is not set: Target names should not be reserved and should
+  match a validity pattern.  Run "cmake --help-policy CMP0037" for policy
+  details.  Use the cmake_policy command to set the policy and suppress this
+  warning.
+
+  The target name
+  "鐏偓/lab/1110310422-鑳℃槑-lab1/1110310422-鑳℃槑-lab1.cpp" is reserved
+  or not valid for certain CMake features, such as generator expressions, and
+  may result in undefined behavior.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring incomplete, errors occurred!
